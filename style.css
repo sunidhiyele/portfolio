@@ -286,6 +286,15 @@ margin-top: 60px;
   margin-bottom: 10px;
 }
 
+.card-title a{
+  color:  #E0B1CB;
+  text-decoration: none;
+}
+
+.card-title a:hover{
+  color: white;
+}
+
 .card-text {
   font-size: 1rem;
   line-height: 1.6;
